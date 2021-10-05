@@ -3,3 +3,7 @@ from django.shortcuts import render
 
 
 #teste
+
+def home():
+    return "Olá mundo"
+
